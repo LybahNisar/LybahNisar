@@ -94,3 +94,8 @@
 📊 Advanced Time-Series Analysis
 📈 Explainable AI (XAI) Techniques
 🧪 Hyperparameter Optimization (Optuna, GridSearchCV)
+
+
+<p align="center"> <a href="https://github.com/LaibaNisar?tab=repositories"> <img src="https://img.shields.io/badge/Explore-My_Projects-green?style=for-the-badge&logo=github" alt="My Projects"/> </a> </p>
+
+<p align="center"><strong>“Empowering innovation with intelligent data.”</strong></p> ```
